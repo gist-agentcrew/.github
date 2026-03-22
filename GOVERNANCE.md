@@ -34,7 +34,7 @@
 
 | 역할 | GitHub 권한 |
 |------|------------|
-| 교수 | - |
+| 교수 | Owner |
 | 멘토 | Maintainer |
 | 팀장 | Owner |
 | 팀원 | Write |
