@@ -1,4 +1,4 @@
-# GIST AgentCrew — Roadmap
+# GEAR — Roadmap
 
 > 2026.03 ~ 2027.02 (1년)
 

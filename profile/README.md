@@ -1,8 +1,8 @@
-# GIST AgentCrew
+# GEAR
 
 > *"Build your own Agent. Own your data."*
 
-광주과학기술원(GIST) 소속 AI Agent 연구·교육 팀입니다.
+**GIST Educational Agent Research** — 광주과학기술원(GIST) 소속 AI Agent 연구·교육 팀입니다.
 
 ## What We Do
 

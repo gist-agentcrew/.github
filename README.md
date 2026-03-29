@@ -1,6 +1,6 @@
 # .github
 
-GIST AgentCrew의 조직 문서 저장소입니다.
+GEAR(GIST Educational Agent Research)의 조직 문서 저장소입니다.
 
 | 문서 | 설명 |
 |------|------|

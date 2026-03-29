@@ -1,4 +1,4 @@
-# GIST AgentCrew — Onboarding Guide
+# GEAR — Onboarding Guide
 
 새로 합류하신 것을 환영합니다!
 

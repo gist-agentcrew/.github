@@ -1,4 +1,4 @@
-# GIST AgentCrew — Governance
+# GEAR — Governance
 
 ## 역할 구조
 
