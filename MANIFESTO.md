@@ -2,7 +2,7 @@
 
 ## 우리는 누구인가
 
-GEAR(GIST Educational Agent Research)는 광주과학기술원(GIST) 소속의 AI Agent 연구·교육 팀입니다.
+GEAR(GIST Educational Agentic Researchers)는 광주과학기술원(GIST) 소속의 AI Agent 연구·교육 팀입니다.
 AI Agent를 연구하고, 고등학생과 일반인을 대상으로 가르칩니다.
 
 **활동 기간:** 2026.03 ~ 2027.02
